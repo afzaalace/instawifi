@@ -1,0 +1,23 @@
+{
+  "name": "instawifi",
+  "version": "1.0.0",
+  "description": "WiFi Manager in NodeJS for Windows, OS X and Linux.",
+  "main": "index.js",
+  "dependencies": {
+    "shelljs": "^0.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/afzaalace/instawifi.git"
+  },
+  "author": "afzaalace",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/afzaalace/instawifi/issues"
+  },
+  "homepage": "https://github.com/afzaalace/instawifi"
+}
